@@ -1,0 +1,13 @@
+# Axiom of Extensionality
+
+## Symbolically
+
+$$\forall x\forall y\left[\forall z\left(z\in x\iff z\in y\right)\implies x=y\right]$$
+
+## In Words
+
+For any sets $x$ and $y$, if one has that for any set $z$, $z$ is an element of $x$ if and only if it is an element of $y$, then $x$ and $y$ are equal.
+
+## Meaning
+
+The Axiom of Extensionality is the foundation of what it means for two sets to be the same. We can make the assumption that if given any two sets $x$ and $y$, an element of $x$ is an element of $y$ and vice versa, then these sets must be the same. Without this axiom we have no means by which we can show that two sets are actually the same; all sets are assumed to be indpenedent unless we have a means of equating them. This axiom acts as that foundation.
